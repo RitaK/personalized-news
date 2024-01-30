@@ -1,0 +1,24 @@
+{
+  "name": "news-website-project",
+  "version": "1.0.0",
+  "description": "A website that presents personalized news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitaK/personalized-news.git"
+  },
+  "author": "Rita Kaufman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitaK/personalized-news/issues"
+  },
+  "homepage": "https://github.com/RitaK/personalized-news#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "typescript": "^5.3.3"
+  }
+}

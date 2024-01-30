@@ -1,0 +1,3 @@
+- scrolling and pagination
+- margins
+- filtering by country, keyword and language 
