@@ -1,1 +1,0 @@
-export const apiUrl = 'https://newsdata.io/api/1/news';
